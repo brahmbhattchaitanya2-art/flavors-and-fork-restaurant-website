@@ -604,43 +604,43 @@ Screenshots of the project will be added here soon.
 
 ### 🏠 Home Page
 
-<!--
+
 <p align="center">
   <img src="assets/images/home.png" width="850" alt="Flavors & Fork Home Page">
 </p>
--->
+
 
 ### 🍕 Menu Page
 
-<!--
+
 <p align="center">
   <img src="assets/images/menu.png" width="850" alt="Flavors & Fork Menu Page">
 </p>
--->
+
 
 ### 🛒 Smart Cart
 
-<!--
+
 <p align="center">
   <img src="assets/images/cart.png" width="850" alt="Flavors & Fork Cart">
 </p>
--->
+
 
 ### 💳 Payment Interface
 
-<!--
+
 <p align="center">
   <img src="assets/images/payment.png" width="850" alt="Flavors & Fork Payment Interface">
 </p>
--->
+
 
 ### 📅 Reservation Page
 
-<!--
+
 <p align="center">
   <img src="assets/images/reservation.png" width="850" alt="Flavors & Fork Reservation Page">
 </p>
--->
+
 
 ---
 
