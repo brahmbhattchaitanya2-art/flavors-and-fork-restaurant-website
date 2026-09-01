@@ -8,7 +8,7 @@
   <a href="https://brahmbhattchaitanya2-art.github.io/flavors-and-fork-restaurant-website/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-d4af37?style=for-the-badge" alt="Live Demo">
   </a>
-  <a href="YOUR_GITHUB_REPOSITORY_LINK">
+  <a href="https://github.com/brahmbhattchaitanya2-art/flavors-and-fork-restaurant-website">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
   </a>
 </p>
