@@ -592,9 +592,9 @@ http://127.0.0.1:5500/index.html
 
 You can explore the deployed version of Flavors & Fork here:
 
-### 🔗 [View Live Website](YOUR_DEPLOYMENT_LINK)
+### 🔗 [View Live Website](https://brahmbhattchaitanya2-art.github.io/flavors-and-fork-restaurant-website/)
 
-> Replace `YOUR_DEPLOYMENT_LINK` with your own deployment URL after deploying the project.
+
 
 ---
 
