@@ -382,14 +382,19 @@ Responsive design is implemented using:
 
 ## 📁 Project Structure
 
-```text
-Flavors-and-Fork/
+```
+flavors-and-fork-restaurant-website/
 │
 ├── assets/
 │   ├── css/
 │   │   └── style.css
 │   │
 │   └── images/
+│       ├── home.png
+│       ├── menu.png
+│       ├── reservation.png
+│       ├── cart.png
+│       └── payment.png
 │
 ├── data/
 │   └── menu.json
